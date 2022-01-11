@@ -9,8 +9,9 @@ namespace Day27_File_IO
         {
             //Program.FileExists();
             //Program.ReadAllLines();
-            //Program.ReadAllText();
+            //Program.ReadAllText
             Program.FileCopy();
+
         }
         public static void FileExists()
         {
@@ -23,27 +24,29 @@ namespace Day27_File_IO
         }
         public static void ReadAllLines()
         {
-          String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
+            String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
             String[] Lines;
             Lines = File.ReadAllLines(path);
             Console.WriteLine(Lines[0]);
             Console.WriteLine(Lines[1]);
-            Console.ReadLine();
+
+            Console.ReadKey();
         }
         public static void ReadAllText()
         {
             String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            String lines;
-            lines = File.ReadAllText(path);
-            Console.WriteLine(lines);
-            Console.ReadLine();
+            String Lines;
+            Lines = File.ReadAllText(path);
+            Console.WriteLine(Lines);
+            Console.ReadKey();
         }
         public static void FileCopy()
         {
             String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            String copypath = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\samplecopy1.txt";
+            String copypath = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\sample1.txt";
             File.Copy(path, copypath);
             Console.ReadKey();
         }
     }
 }
+       

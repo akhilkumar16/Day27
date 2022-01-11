@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kranthi\\Desktop\\Day27_File_IO\\Day27_File_IO\\Day27_File_IO.csproj",
+      "projectUniqueName": "C:\\Users\\Kranthi\\Desktop\\Bridgelabz\\Day27_File_IO\\Day27_File_IO\\Day27_File_IO.csproj",
       "projectName": "Day27_File_IO",
-      "projectPath": "C:\\Users\\Kranthi\\Desktop\\Day27_File_IO\\Day27_File_IO\\Day27_File_IO.csproj",
+      "projectPath": "C:\\Users\\Kranthi\\Desktop\\Bridgelabz\\Day27_File_IO\\Day27_File_IO\\Day27_File_IO.csproj",
       "packagesPath": "C:\\Users\\Kranthi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kranthi\\Desktop\\Day27_File_IO\\Day27_File_IO\\obj\\",
+      "outputPath": "C:\\Users\\Kranthi\\Desktop\\Bridgelabz\\Day27_File_IO\\Day27_File_IO\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Kranthi\\AppData\\Roaming\\NuGet\\NuGet.Config",
