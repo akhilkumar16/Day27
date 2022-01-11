@@ -1,0 +1,14 @@
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.exe
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.deps.json
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.runtimeconfig.json
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.runtimeconfig.dev.json
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.dll
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\bin\Debug\netcoreapp3.1\Day27_File_IO.pdb
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.csproj.AssemblyReference.cache
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.AssemblyInfoInputs.cache
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.AssemblyInfo.cs
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.csproj.CoreCompileInputs.cache
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.dll
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.pdb
+C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\obj\Debug\netcoreapp3.1\Day27_File_IO.genruntimeconfig.cache
