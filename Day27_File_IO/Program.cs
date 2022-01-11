@@ -7,46 +7,8 @@ namespace Day27_File_IO
     {
         static void Main(string[] args)
         {
-            //Program.FileExists();
-            //Program.ReadAllLines();
-            //Program.ReadAllText
-            Program.FileCopy();
-
-        }
-        public static void FileExists()
-        {
-            String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            if (File.Exists(path))
-            {
-                Console.WriteLine("file exists");
-            }
+            BinaryOperations.BinarySerialization();
             Console.ReadLine();
-        }
-        public static void ReadAllLines()
-        {
-            String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            String[] Lines;
-            Lines = File.ReadAllLines(path);
-            Console.WriteLine(Lines[0]);
-            Console.WriteLine(Lines[1]);
-
-            Console.ReadKey();
-        }
-        public static void ReadAllText()
-        {
-            String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            String Lines;
-            Lines = File.ReadAllText(path);
-            Console.WriteLine(Lines);
-            Console.ReadKey();
-        }
-        public static void FileCopy()
-        {
-            String path = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\Example.txt";
-            String copypath = @"C:\Users\Kranthi\Desktop\Day27_File_IO\Day27_File_IO\sample1.txt";
-            File.Copy(path, copypath);
-            Console.ReadKey();
         }
     }
 }
-       

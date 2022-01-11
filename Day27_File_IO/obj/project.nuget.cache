@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Uoep1nsseWTxYuzE6crwRNmxEHhCcr0fudVEI6KUrFic2Cx9uY0+qekcvcu17GXfG8llGyhv+4GmvkJmseqCZw==",
+  "dgSpecHash": "OLPgFnmYfSybkczf8x0h7Kl8aoaUaweHkQQ4Pvk6a3hLGvZ9ekNFVuFEvBbiGv9BH9cnpPenQDvW0i9x2fZqYQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Kranthi\\Desktop\\Bridgelabz\\Day27_File_IO\\Day27_File_IO\\Day27_File_IO.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Kranthi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
